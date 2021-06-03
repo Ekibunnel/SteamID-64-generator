@@ -1,5 +1,5 @@
 # SteamID-64-generator
-generate all valable steamID 64 for an steam account from an steamID 64 or 32
+generate all steamID within the 64bit space for an steam account from an steamID 64 or 32
 
 
 # Exemple (see Exemple.txt)
