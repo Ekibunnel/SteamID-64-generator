@@ -17,3 +17,6 @@ generate all steamID within the 64bit space for an steam account from an steamID
 8	| 76561228025059002
 9	| 76561232320026298
 ```
+
+# big_fake_steamid_generator
+generate the longest steamID possible from an steamID 64
